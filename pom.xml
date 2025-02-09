@@ -9,4 +9,16 @@
         <maven.compiler.release>17</maven.compiler.release>
         <exec.mainClass>ind.josefswadijohansson.weatherapp.WeatherAppCli</exec.mainClass>
     </properties>
+    <dependencies>
+        <dependency>
+            <groupId>org.json</groupId>
+            <artifactId>json</artifactId>
+            <version>20210307</version>
+        </dependency>
+        <dependency>
+            <groupId>io.github.cdimascio</groupId>
+            <artifactId>dotenv-java</artifactId>
+            <version>3.0.0</version>
+        </dependency>
+    </dependencies>
 </project>
