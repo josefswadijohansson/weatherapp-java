@@ -21,3 +21,4 @@ I hadn't touched Java before, i have mostly written code in C# so this was way t
 
 ## Possible further development on it
 - Have it use a GUI library to get a more "Windows" look it, rather than a CLI program for now.
+- Make it handle special characters, because right now it handles only ASCII characters.
